@@ -1,6 +1,6 @@
-pyTelegramBotAPI
+python-telegram-bot
 requests
 flask
 python-dotenv
 PyPDF2
-
+gunicorn
