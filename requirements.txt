@@ -4,3 +4,4 @@ flask
 python-dotenv
 PyPDF2
 gunicorn
+pyTelegramBotAPI
